@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hi there 👋, I am Hasnat...
+#### web designer & developer 
+I am passionate about working as a web developer.
+I count myself as a hardworking person. To pursue a challenging career in a competitive world where honesty, hard work, and passion will support me to grow myself as well as utilize my knowledge and expertise for professional development in the relevant field.
 
-<!--
-**aHasnat1997/aHasnat1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Skills: HTML / Vanilla CSS /  Vanilla JavaScript / Bootstrap / Tailwind 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/aHasnat1997)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/a-hasnat//)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aHasnat1997)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=aHasnat1997&show_icons=true&count_private=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=aHasnat1997)  
+
+![GitHub metrics](https://metrics.lecoq.io/aHasnat1997)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=aHasnat1997)  
+
+![Profile views](https://gpvc.arturio.dev/aHasnat1997)  
