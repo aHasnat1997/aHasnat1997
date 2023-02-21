@@ -17,6 +17,4 @@ Skills: HTML / Vanilla CSS /  Vanilla JavaScript / Bootstrap / Tailwind
  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=aHasnat1997)  
-  
-
-![Profile views](https://gpvc.arturio.dev/aHasnat1997)  
+ 
