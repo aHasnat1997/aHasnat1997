@@ -14,7 +14,3 @@ Skills: HTML / Vanilla CSS /  Vanilla JavaScript / Bootstrap / Tailwind
 ![GitHub metrics](https://metrics.lecoq.io/aHasnat1997)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aHasnat1997)](https://github.com/anuraghazra/github-readme-stats)
- 
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=aHasnat1997)  
- 
