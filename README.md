@@ -1,4 +1,4 @@
-![I am GitHub Readme Generator's creator](https://ah-logo.surge.sh/logo.png)
+![I am GitHub Readme Generator's creator](http://ah-logo.surge.sh/logo.png)
 
 # Hi 👋, I am Hasnat...
 ### web designer & developer 
