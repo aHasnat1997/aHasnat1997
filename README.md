@@ -10,7 +10,5 @@ I count myself as a hardworking person. To pursue a challenging career in a comp
 
 Skills: HTML / Vanilla CSS /  Vanilla JavaScript / React /  Bootstrap / Tailwind  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aHasnat1997)](https://github.com/anuraghazra/github-readme-stats)
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=aHasnat1997&show_icons=true&theme=radical)
 
