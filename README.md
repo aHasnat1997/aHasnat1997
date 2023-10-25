@@ -1,5 +1,8 @@
 # Hi 👋, I am Hasnat...
 ![I am GitHub Readme Generator's creator](http://ah-logo.surge.sh/logo100.png)
+<p align="center">
+  <img src="http://ah-logo.surge.sh/logo100.png" />
+</p>
 
 
 ### web designer & developer 
