@@ -16,4 +16,3 @@ Skills: HTML / Vanilla CSS /  Vanilla JavaScript / React /  Bootstrap / Tailwind
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aHasnat1997)](https://github.com/anuraghazra/github-readme-stats)
 
-![Profile views](https://gpvc.arturio.dev/aHasnat1997)  
