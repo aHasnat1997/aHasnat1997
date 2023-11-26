@@ -9,7 +9,7 @@ I am passionate about working as a web developer.
 
 I count myself as a hardworking person. To pursue a challenging career in a competitive world where honesty, hard work, and passion will support me to grow myself as well as utilize my knowledge and expertise for professional development in the relevant field.
 
-Skills: HTML / Vanilla CSS /  Vanilla JavaScript / React /  Bootstrap / Tailwind  
+Skills: HTML / Vanilla CSS / JavaScript / TypeScript / React /  Bootstrap / Tailwind / Express / Mongoose
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=aHasnat1997&show_icons=true&theme=radical)
 
