@@ -13,4 +13,3 @@ Skills: HTML / Vanilla CSS / JavaScript / TypeScript / React /  Bootstrap / Tail
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=aHasnat1997&show_icons=true&theme=radical)
 
-<a href="https://app.daily.dev/ahasnat"><img src="https://api.daily.dev/devcards/e161486fd9a64588bfab9e6b781f410e.png?r=t18" width="400" alt="A Hasnat's Dev Card"/></a>
