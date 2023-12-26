@@ -11,6 +11,12 @@
 - 💻 Languages: HTML, Vanilla CSS, JavaScript, TypeScript
 - 🌐 Libraries & Frameworks: React, Bootstrap, Tailwind
 - 🚀 Backend: Express, Mongoose
+  
+My code is a canvas where I paint functionality, and my designs are a testament to the perfect marriage of form and function. I thrive in challenging environments, believing that honesty, hard work, and genuine passion are the pillars for both personal and professional growth.
+
+Join me in this exhilarating journey as we bring ideas to life, one line of code at a time! 🚀✨
+
+Let's connect and collaborate! 🤝
 
 ### Skills
 
@@ -23,14 +29,6 @@
 ### Socials
 
 <p align="left"> <a href="https://www.linkedin.com/in/a-hasnat/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
-
-  
-My code is a canvas where I paint functionality, and my designs are a testament to the perfect marriage of form and function. I thrive in challenging environments, believing that honesty, hard work, and genuine passion are the pillars for both personal and professional growth.
-
-Join me in this exhilarating journey as we bring ideas to life, one line of code at a time! 🚀✨
-
-Let's connect and collaborate! 🤝
-
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=aHasnat1997&show_icons=true&theme=radical)
