@@ -8,7 +8,8 @@ Greetings! ![](https://user-images.githubusercontent.com/18350557/176309783-0785
 My expertise in:
 - 💻 Languages: HTML, Vanilla CSS, JavaScript, TypeScript
 - 🌐 Libraries & Frameworks: React, Bootstrap, Tailwind, NextJs
-- 🚀 Backend: Express, Mongoose, Prisma
+- 🚀 Backend: Express, Nest, Mongoose, Prisma
+- 🗃️ Database: Postgress, MongoDB
   
 My code is a canvas where I paint functionality, and my designs are a testament to the perfect marriage of form and function. I thrive in challenging environments, believing that honesty, hard work, and genuine passion are the pillars for both personal and professional growth.
 
