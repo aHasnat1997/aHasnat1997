@@ -1,7 +1,7 @@
 Greetings! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Hasnat...
 ===================================================================================================================================
 
-### 🚀 Passionate Web Developer | Hardworking Coder
+### 🚀 Passionate Web Developer
 
 👋 I'm a dedicated web developer passionate about crafting seamless and stunning online experiences. My journey in the vast realm of web development has equipped me with a versatile skill set. 
 
