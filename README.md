@@ -1,6 +1,43 @@
-# 💫 About Me:
-🚀 Passionate Developer<br><br>Building scalable web applications, backend systems, dashboards, APIs, and modern digital products with real-world client experience.<br>I’m a Web Developer with hands-on Full Stack experience working on production-level applications involving:<br><br>Modern frontend systems<br>Backend APIs & architecture<br>Database design<br>Authentication systems<br>Dockerized infrastructure<br>Dashboard & admin systems<br><br>I enjoy building products that are:<br><br>Scalable<br>Maintainable<br>Performant<br>User-focused<br><br>Currently focused on becoming a stronger Problem Solver while improving my backend architecture and system design knowledge.
+# 💫 About Me
 
+## 🚀 Passionate Full Stack Developer
+
+Building scalable web applications, backend systems, dashboards, APIs, and modern digital products with real-world client experience.
+
+I’m a **Web Developer** with hands-on **Full Stack** experience working on production-level applications involving:
+
+- ⚡ Modern frontend systems  
+- 🔧 Backend APIs & architecture  
+- 🗄️ Database design & management  
+- 🔐 Authentication & authorization systems  
+- 🐳 Dockerized infrastructure  
+- 📊 Dashboard & admin systems  
+
+---
+
+## 💡 What I Enjoy Building
+
+I enjoy creating products that are:
+
+- 📈 Scalable  
+- 🧩 Maintainable  
+- ⚡ Performant  
+- 👨‍💻 User-focused  
+
+---
+
+## 🎯 Current Focus
+
+Currently focused on becoming a stronger **Problem Solver** while improving my knowledge in:
+
+- 🏗️ Backend architecture  
+- ⚙️ System design  
+- 🚀 Scalable application development  
+- 🐳 Infrastructure & deployment workflows  
+
+---
+
+> “I believe great software is built through clean architecture, scalable systems, and solving real-world problems.”
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/a-hasnat/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:a.hasnat.dev1@gmail.com) 
