@@ -4,7 +4,7 @@
 
 Building scalable web applications, backend systems, dashboards, APIs, and modern digital products with real-world client experience.
 
-I’m a **Web Developer** with hands-on **Full Stack** experience working on production-level applications involving:
+I’m a **Developer** with hands-on **Full Stack** experience working on production-level applications involving:
 
 - ⚡ Modern frontend systems  
 - 🔧 Backend APIs & architecture  
