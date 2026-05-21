@@ -1,5 +1,6 @@
 ```💫 About Me```
-# 🚀 Passionate Developer
+<!-- # 🚀 Passionate Developer -->
+<img src="aHasnat1997-profile-banner.svg" width=100%>
 
 Building scalable web applications, backend systems, dashboards, APIs, and modern digital products with real-world client experience.
 
