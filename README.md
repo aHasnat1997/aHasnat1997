@@ -2,7 +2,7 @@
 <!-- # 🚀 Passionate Developer -->
 <img src="aHasnat1997-profile-banner.svg" width=100%>
 
-Building scalable web applications, backend systems, dashboards, APIs, and modern digital products with real-world client experience.
+<!-- Building scalable web applications, backend systems, dashboards, APIs, and modern digital products with real-world client experience. -->
 
 I’m a **Developer** with hands-on **Full Stack** experience working on production-level applications involving:
 
