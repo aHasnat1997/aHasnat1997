@@ -56,9 +56,6 @@ Currently focused on becoming a stronger **Problem Solver** while improving my k
 
 ---
 
-<figure><embed src="https://wakatime.com/share/@a_hasnat/a4a25019-e403-4932-95ed-1496e7f500f8.svg"></embed></figure>
-<figure><embed src="https://wakatime.com/share/@a_hasnat/c3a3a114-356a-4f88-a137-ca4af4d4f6b7.svg"></embed></figure>
-
 [![](https://komarev.com/ghpvc/?username=aHasnat1997&icon=1&color=3)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
