@@ -51,10 +51,9 @@ Currently focused on becoming a stronger **Problem Solver** while improving my k
 ![](https://github-readme-stats.shion.dev/api?username=aHasnat1997&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=aHasnat1997&theme=transparent&hide_border=true)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=aHasnat1997&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+<!-- ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=aHasnat1997&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)--->
 
----
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
