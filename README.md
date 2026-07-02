@@ -41,10 +41,11 @@ Currently focused on becoming a stronger **Problem Solver** while improving my k
 
 ## 🌐 Socials:
 <div align="center">
+  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/a-hasnat/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:a.hasnat.dev1@gmail.com)
-</div>
-<div align="center">
+
 <a href="https://app.daily.dev/mdhasnat"><img src="https://api.daily.dev/devcards/v2/Woa7sRkWvEr9zZjx2gkkQ.png?type=wide&r=d71" width="350" alt="MD. Hasnat's Dev Card"/></a>
+
 </div>
 
 # 💻 Tech Stack:
