@@ -28,7 +28,7 @@ I enjoy creating products that are:
 
 ## 🎯 Current Focus
 
-Currently focused on becoming a stronger **Problem Solver** while improving my knowledge in:
+Currently focused on becoming a stronger **Problem Solver** while improving my knowledge in: 
 
 - 🏗️ Backend architecture  
 - ⚙️ System design  
