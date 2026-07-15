@@ -98,6 +98,21 @@ Currently focused on becoming a stronger **Problem Solver** while improving my k
 
 
 <!--START_SECTION:waka-->
+
+```rust
+From: 20 April 2026 - To: 14 July 2026
+
+Total Time: 219 hrs 4 mins
+
+TypeScript                 97 hrs 29 mins        >>>>>>>>>>>--------------   43.63 %
+Astro                      56 hrs 36 mins        >>>>>>-------------------   25.33 %
+CSS                        22 hrs 31 mins        >>>----------------------   10.08 %
+HTML                       12 hrs 44 mins        >------------------------   05.70 %
+Bash                       6 hrs 22 mins         >------------------------   02.86 %
+Prisma                     5 hrs 4 mins          >------------------------   02.27 %
+Other                      4 hrs 24 mins         -------------------------   01.98 %
+```
+
 <!--END_SECTION:waka-->
 
 [![](https://komarev.com/ghpvc/?username=aHasnat1997&icon=1&color=3)](https://visitcount.itsvg.in)
