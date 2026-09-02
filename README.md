@@ -93,19 +93,19 @@ Currently focused on becoming a stronger **Problem Solver** while improving my k
 <!--START_SECTION:waka-->
 
 ```rust
-From: 20 April 2026 - To: 31 August 2026
+From: 20 April 2026 - To: 01 September 2026
 
-Total Time: 289 hrs 55 mins
+Total Time: 292 hrs 7 mins
 
-TypeScript                 132 hrs 40 mins       >>>>>>>>>>>--------------   44.95 %
-Astro                      75 hrs 26 mins        >>>>>>-------------------   25.56 %
-CSS                        23 hrs 8 mins         >>-----------------------   07.84 %
-HTML                       13 hrs 47 mins        >------------------------   04.67 %
-Bash                       9 hrs 12 mins         >------------------------   03.12 %
-Prisma                     6 hrs                 >------------------------   02.04 %
-JavaScript                 5 hrs 41 mins         -------------------------   01.93 %
-Markdown                   5 hrs 16 mins         -------------------------   01.79 %
-Other                      5 hrs 14 mins         -------------------------   01.77 %
+TypeScript                 133 hrs 2 mins        >>>>>>>>>>>--------------   44.74 %
+Astro                      76 hrs 48 mins        >>>>>>-------------------   25.83 %
+CSS                        23 hrs 8 mins         >>-----------------------   07.78 %
+HTML                       13 hrs 47 mins        >------------------------   04.64 %
+Bash                       9 hrs 12 mins         >------------------------   03.10 %
+Prisma                     6 hrs                 >------------------------   02.02 %
+JavaScript                 5 hrs 41 mins         -------------------------   01.91 %
+Markdown                   5 hrs 17 mins         -------------------------   01.78 %
+Other                      5 hrs 14 mins         -------------------------   01.76 %
 ```
 
 <!--END_SECTION:waka-->
