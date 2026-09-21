@@ -93,7 +93,7 @@ Currently focused on becoming a stronger **Problem Solver** while improving my k
 <!--START_SECTION:waka-->
 
 ```rust
-From: 20 April 2026 - To: 19 September 2026
+From: 20 April 2026 - To: 20 September 2026
 
 Total Time: 327 hrs 40 mins
 
